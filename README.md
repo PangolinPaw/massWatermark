@@ -1,6 +1,9 @@
 # massWatermark
 Apply a text-based watermark to all images in the current directory.
 
+## Requirements
+Besides PIL installed via pip (instructions below), the only requirement is Python 2.7
+
 ## Installation
 1. Download this repo
 2. Navigate to the download destination via the Terminal (`cd path/to/directory`)
